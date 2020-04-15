@@ -19,6 +19,11 @@ This algorithm uses the method of finite differences to adjust its weights and l
 $ git clone https://github.com/7enTropy7/DogTrot_RL.git
 ```
 
+## Dependencies
+```bash
+$ pip3 install -r requirements.txt
+```
+
 ## Testing Instructions
 
 ```bash
